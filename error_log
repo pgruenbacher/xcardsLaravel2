@@ -1,0 +1,155 @@
+[21-Jun-2014 08:11:23 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[21-Jun-2014 08:12:37 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[21-Jun-2014 13:40:05 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[21-Jun-2014 14:06:33 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[21-Jun-2014 20:07:42 UTC] PHP Fatal error:  Cannot redeclare class CreatePostsTable in /home4/paulgru1/xcards/app/database/migrations/2014_06_21_200633_create_posts_table.php on line 47
+[21-Jun-2014 20:48:44 UTC] PHP Fatal error:  Class 'Fbf\LaravelBlog\LaravelBlogServiceProvider' not found in /home4/paulgru1/xcards/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 158
+[28-Jun-2014 08:46:40 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[28-Jun-2014 08:47:38 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[28-Jun-2014 08:56:56 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[28-Jun-2014 08:59:48 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[28-Jun-2014 12:58:20 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[29-Jun-2014 09:00:01 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[05-Jul-2014 10:49:22 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[05-Jul-2014 10:52:39 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[12-Jul-2014 15:00:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/paulgru1/xcards/artisan on line 46
+[12-Jul-2014 15:00:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/paulgru1/xcards/artisan on line 46
+[12-Jul-2014 16:02:17] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/paulgru1/xcards/artisan on line 46
+[12-Jul-2014 16:02:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/paulgru1/xcards/artisan on line 46
+[15-Jul-2014 19:58:12 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[15-Jul-2014 20:00:42 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[20-Jul-2014 17:00:59 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[20-Jul-2014 23:02:04 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::int() in /home4/paulgru1/xcards/app/database/migrations/2014_07_20_230059_add_offsets_to_collages_table.php on line 17
+[20-Jul-2014 17:02:29 America/Denver] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: argv' in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php:57
+Stack trace:
+#0 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php(57): Composer\Util\ErrorHandler::handle(8, 'Undefined index...', 'phar:///home4/p...', 57, Array)
+#1 phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Application.php(111): Symfony\Component\Console\Input\ArgvInput->__construct()
+#2 phar:///home4/paulgru1/xcards/composer.phar/src/Composer/Console/Application.php(83): Symfony\Component\Console\Application->run(NULL, Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 phar:///home4/paulgru1/xcards/composer.phar/bin/composer(43): Composer\Console\Application->run()
+#4 /home4/paulgru1/xcards/composer.phar(14): require('phar:///home4/p...')
+#5 {main}
+  thrown in phar:///home4/paulgru1/xcards/composer.phar/vendor/symfony/console/Symfony/Component/Console/Input/ArgvInput.php on line 57
+[09-Aug-2014 15:03:17 UTC] PHP Fatal error:  Class 'Andrew13\Cabinet\CabinetServiceProvider' not found in /home4/paulgru1/xcards/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 158
+[09-Aug-2014 15:06:33 UTC] PHP Fatal error:  Class 'Andrew13\Cabinet\CabinetServiceProvider' not found in /home4/paulgru1/xcards/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 158
+[09-Aug-2014 15:07:18 UTC] PHP Fatal error:  Class 'Bllim\Datatables\DatatablesServiceProvider' not found in /home4/paulgru1/xcards/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 158
+[09-Aug-2014 17:15:09 UTC] PHP Fatal error:  Class 'Barryvdh\Laravel-cors\CorsServiceProvider' not found in /home4/paulgru1/xcards/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 158

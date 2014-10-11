@@ -1,0 +1,7 @@
+{
+	"name": "Laravel 4 - Laravel Grunt Asset Management Package",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "~1.10","jquery-ui": "~1.10.4","bootstrap": "~3","font-awesome": "~4.0.3","jquery-file-upload": "*","jTable": "https://github.com/hikalkan/jtable.git","validationEngine": "https://github.com/posabsolute/jQuery-Validation-Engine.git"
+	}
+}

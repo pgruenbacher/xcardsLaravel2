@@ -1,0 +1,22 @@
+{
+    "name": "solitude/profiler",
+    "description": "profiler for Laravel 4",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "pgruenbacher",
+            "email": "pgruenbacher@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*",
+        "illuminate/view": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Solitude\\Profiler": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

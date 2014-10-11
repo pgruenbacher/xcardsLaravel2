@@ -1,0 +1,106 @@
+	/* Set the fixed height of the footer here */
+	#footer {
+	  height: 30px;
+	  background-color: #f5f5f5;
+	}
+	.carousel-caption
+	{
+		color: #433338;
+		
+	}
+	.carousel-indicators li
+	{
+		border:1px solid #393939;
+	}
+	.carousel-text{
+ 	display: inline;   
+	}
+
+
+	
+	/* bootstrap 3 affix sidebar */
+#masthead {
+	min-height:250px;
+}
+
+#masthead h1 {
+	font-size: 30px;
+	line-height: 1;
+  	padding-top:20px;
+}
+
+#masthead .well {
+	margin-top:8%;
+}
+
+@media screen and (min-width: 768px) {
+	#masthead h1 {
+		font-size: 50px;
+	}
+}
+.affix-top,.affix{
+	position: static;
+}
+
+@media (min-width: 979px) {
+  #sidebar.affix-top {
+    position: static;
+  	margin-top:30px;
+  	width:228px;
+  }
+  
+  #sidebar.affix {
+    position: fixed;
+    top:10px;
+    width:228px;
+  }
+ #sidebar.affix-bottom {
+  width: 228px;
+  position: absolute;
+}
+
+#sidebar li.active {
+  	border:0 #eee solid;
+  	border-right-width:4px;
+  	background-color:#A6E1EC;
+}
+
+@media (min-width: 979px) {
+  #wax.affix-top {
+    position: static;
+  	margin-top:0px;
+  	width:228px;
+  }
+  
+  #wax.affix {
+    position: fixed;
+    top:0px;
+    width:228px;
+  }
+ #wax.affix-bottom {
+  width: 228px;
+  position: absolute;
+}
+
+#wax li.active {
+  	border:0 #eee solid;
+  	border-right-width:4px;
+  	background-color:#A6E1EC;
+}
+
+/* Sets figure text to be smaller  */
+.figure {
+	padding: 4px;
+	font-size:80%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e9e9e9
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+/* Dropdown Menu Will appear on hover */

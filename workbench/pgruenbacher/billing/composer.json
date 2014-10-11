@@ -1,0 +1,20 @@
+{
+    "name": "pgruenbacher/billing",
+    "description": "",
+    "authors": [
+        {
+            "name": "pgruenbacher",
+            "email": "pgruenbacher@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pgruenbacher\\Billing": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
